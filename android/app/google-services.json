@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807409508830",
+    "project_id": "dominos-app-166b1",
+    "storage_bucket": "dominos-app-166b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807409508830:android:6db8070bc682b78fe67d4f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwKix_KBLl2AGFV4HwYBuoVnzD7pfE1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
